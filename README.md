@@ -3,7 +3,7 @@ Gen AI experiment for CS 394 Agile
 
 Briefly describe what the code is supposed to do.
 
-The code is supposed to complete web scraping on the front end from YMCA sites in the chicagoland area ands input those into a .csv file
+The code is supposed to complete web scraping on the front end. This is done from YMCA sites in the chicagoland area, ands input the specified extracted values into a .csv file
 
 Does the code work? If not, what's broken.
 
